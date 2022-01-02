@@ -1,4 +1,5 @@
 # OffensiveCommentDetector
+## Written in:Python
 # Assumptions made:
   Comments are contained in a text file with each comment on a new line.
   The comments file is opened and the comments are read into a list. 
